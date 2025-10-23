@@ -1,15 +1,25 @@
 body{
-  background-color:#ffe0e9;
+  background-color:#000000;
+  color:white;
 }
 
 #tit{
   text-align:center;
-  color:#ffc1d3;
+  color:#e2889b;
 }
 
  #mundilibb{
   text-align:center;
    color:#ffc1d3;
+  
 }
 
+#estudiantes{
+  text-align:center;
+   color:#ffc1d3;
+  
+}
 
+.d1{
+  text-align:center;
+}
